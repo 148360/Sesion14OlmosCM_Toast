@@ -27,6 +27,9 @@ public class MainActivity extends AppCompatActivity {//inicia clase
 
 
 
+
+
+
     public void primerToast(View view){//inicia metodo
         Context context = getApplicationContext();
         CharSequence mensaje="Mensaje TOAST \nVictor Olmos \n CM";

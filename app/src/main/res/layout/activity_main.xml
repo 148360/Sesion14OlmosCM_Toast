@@ -40,14 +40,14 @@
             android:id="@+id/btnSegundo"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:onClick="toastPesonalizadoXML1"
+            android:onClick="segundoToast"
             android:text="Segundo Toast Personalziado" />
 
         <Button
             android:id="@+id/btnTercero"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:onClick="tercerToast"
+            android:onClick="toastPesonalizadoXML1"
             android:text="Tercer Toast Personalizado" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
